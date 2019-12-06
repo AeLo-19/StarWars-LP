@@ -23,8 +23,8 @@ export function Home() {
 					<div className="filtros">
 						<Menu />
 					</div>
-					<div className="fondo" />
 				</div>
+				<hr />
 				<div className="info">
 					<Vehicles />
 					<People />
