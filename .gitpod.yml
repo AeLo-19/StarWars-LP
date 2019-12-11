@@ -7,3 +7,4 @@ ports:
 vscode:
   extensions:
     - msjsdiag.vscode-react-native@0.13.2:y4j3Bw5plG4g0AUnuXFZHQ==
+    - antmdvs.vscode-react-hooks-snippets@0.1.2:tsO324LnaNh3TTgreJNiNQ==
